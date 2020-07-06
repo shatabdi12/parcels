@@ -1,0 +1,30 @@
+.customer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 40px auto;
+  position: relative;
+  text-align: center;
+  width: 70%;
+}
+.customer {
+  background-color: var(--theme-blue);
+  height: 100px;
+  margin: 10px;
+  position: relative;
+  width: 100px;
+}
+.customer a {
+  color: var(--white);
+  cursor: pointer;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.customer-label {
+  color: var(--dark);
+  margin: 5px 15px;
+  opacity: 0.9;
+  padding: 5px;
+}

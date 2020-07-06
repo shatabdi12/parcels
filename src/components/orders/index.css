@@ -1,0 +1,6 @@
+.customer-label {
+  color: var(--dark);
+  margin: 5px 15px;
+  opacity: 0.9;
+  padding: 5px;
+}

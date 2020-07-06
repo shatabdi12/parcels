@@ -1,0 +1,15 @@
+.parcel {
+  margin: 5px 15px;
+  opacity: 0.9;
+  padding: 5px;
+}
+.parcel-label {
+  background-color: var(--theme-blue);
+  color: var(--white);
+  cursor: pointer;
+  padding: 5px;
+}
+.Expanded {
+  background-color: var(--table-bg-grey);
+  color: var(--dark);
+}

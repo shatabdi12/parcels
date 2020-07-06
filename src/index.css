@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  overflow-y: scroll;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  color: #000000;
+  font-size: 12px;
+  font-family: Verdana, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+}
